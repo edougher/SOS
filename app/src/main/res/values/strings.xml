@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SOS</string>
+    <string name="my_name">Erin Dougher</string>
+    <string name="my_info">Emergency Info</string>
+    <string name="description">Do Not Resuscitate \n No Allergies \n
+    Organ Donor</string>
+    <string name="emergency_contact">Emergency Contact: Mark Dougher 123-456-7890</string>
+    <string name="address">Address: \n 5555 Skyridge Dr \n Crystal Lake IL</string>
+</resources>
